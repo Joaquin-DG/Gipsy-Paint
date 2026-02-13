@@ -9,7 +9,7 @@
 #include <SDL3/SDL.h>
 #include <SDL3_image/SDL_image.h>
 
-#define TARGET_FPS 60
+#define TARGET_FPS 120
 
 
 enum colors_name{
